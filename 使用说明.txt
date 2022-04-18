@@ -1,0 +1,1 @@
+Windows部分系统没有自带curl，首次使用前需要先运行 双击自解压curl.exe 自动解压 curl.exe 运行文件到当前目录
